@@ -1,5 +1,5 @@
 // Copyright author 2020
-// Created by Jesus Manresa Parres
+// Created by __sh0l1n@
 //
 
 import GLibObject
