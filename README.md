@@ -12,7 +12,7 @@ After that, you can run the program using
 
 	.build/debug/CryptoList
 
-A simple, empty 'Hello Cairo' window should appear.  To exit the program, click the close button or press Control-C in the Terminal window.
+A simple listview filled with all trading cryptocurrencies asset pairs Bitfinex together its ask and bid price. To exit the program, click the close button or press Control-C in the Terminal window.
 
 ### Xcode
 
