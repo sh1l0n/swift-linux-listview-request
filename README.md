@@ -1,6 +1,10 @@
 # SwiftListViewRequestGtk
 A simple 'list-view' app showing how to do a request and fill the listview with its response using SwiftGTK https://github.com/rhx/SwiftGtk
 
+<p align="center"> 
+<img src="readme-images/crypto-list.png">
+</p>
+
 ## Building
 Make sure you have all the prerequisites installed (see below).  After that, you can simply clone this repository and build the command line executable (be patient, this will download all the required dependencies and take a while to compile) using
 
@@ -10,7 +14,7 @@ Make sure you have all the prerequisites installed (see below).  After that, you
 	
 After that, you can run the program using
 
-	.build/debug/CryptoList
+	.build/debug/Crypto
 
 A simple listview filled with all trading cryptocurrencies asset pairs Bitfinex together its ask and bid price. To exit the program, click the close button or press Control-C in the Terminal window.
 
@@ -20,7 +24,7 @@ On macOS, you can build the project using Xcode instead.  To do this, you need t
 
 
 	./xcodegen.sh
-	open CryptoList.xcodeproj
+	open Crypto.xcodeproj
 
 After that, select the executable target (not the Bundle/Framework target with the same name as the executable) and use the (usual) Build and Run buttons to build/run your project.
 
